@@ -52,10 +52,4 @@ struct MovieListItem: View {
     }
 }
 
-/*
- struct MovieListItem_Previews: PreviewProvider {
- static var previews: some View {
- MovieListItem()
- }
- }
- */
+

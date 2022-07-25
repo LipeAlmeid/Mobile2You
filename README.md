@@ -29,3 +29,5 @@ Achei demais!!!!! Estou muito feliz de ter conseguido.
 
 OBS - Só consegui subir a pasta "Pods" em arquivo comprimido devido ao tamanho da mesma.
 
+Os códigos estao comentados para fácil entendimento.
+

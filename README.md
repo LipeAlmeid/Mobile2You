@@ -3,6 +3,10 @@
 
 Foi um desafio e tanto montar esse projeto! 
 
+Todos os requisitos foram atendidos na implementação deste projeto. O design pattern escolhido foi o MVP, os dados do filme e a lista de filmes recomendados são obtidos nos endpoints da API.
+Para comunicação com a API, escolhi utilizar a biblioteca Alamofire.
+Utilizei RxSwift nos serviços, com cada método retornando uma Observable com o tipo do seu retorno.
+
 Depois de vaaaaaarias tentativas, até da instalação de biblioteca resultando em falhas, consegui fazer o app compilar sem erros. 
 
 Foi utilizado as seguintes bibliotecas: 

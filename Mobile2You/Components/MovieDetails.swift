@@ -71,9 +71,4 @@ struct MovieDetails: View {
     }
 }
 
-/*
- struct MovieDetails_Previews: PreviewProvider {
- static var previews: some View {
- MovieDetails()
- }
- }*/
+
